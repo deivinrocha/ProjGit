@@ -28,9 +28,9 @@ public class Cliente extends Pessoa {
 		return tipoCliente;
 	}
 	
-	public void setTipoCliente(String tipoCliente){
+	/*public void setTipoCliente(String tipoCliente){
 		this.tipoCliente = tipoCliente;
-	}
+	}*/
 	
 	
 	
