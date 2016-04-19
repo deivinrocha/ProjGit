@@ -16,17 +16,17 @@ public class Cliente extends Pessoa {
 		this.ultimaCompra = ultimaCompra;	
 	}
 
-	public String getFormasPg(){
+	/*public String getFormasPg(){
 		return formasPg;
-	}
+	}*/
 	
 	public void setFormasPg(String formasPg){
 		this.formasPg = formasPg;
 	}
 	
-	/*public String getTipoCliente(){
+	public String getTipoCliente(){
 		return tipoCliente;
-	}*/
+	}
 	
 	public void setTipoCliente(String tipoCliente){
 		this.tipoCliente = tipoCliente;
