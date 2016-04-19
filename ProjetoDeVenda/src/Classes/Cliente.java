@@ -24,13 +24,13 @@ public class Cliente extends Pessoa {
 		this.formasPg = formasPg;
 	}
 	
-	public String getTipoCliente(){
+	/*public String getTipoCliente(){
 		return tipoCliente;
-	}
-	
-	/*public void setTipoCliente(String tipoCliente){
-		this.tipoCliente = tipoCliente;
 	}*/
+	
+	public void setTipoCliente(String tipoCliente){
+		this.tipoCliente = tipoCliente;
+	}
 	
 	
 	
